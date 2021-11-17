@@ -36,9 +36,11 @@ export const connect = () => {
     dispatch(connectRequest());
     if (window.ethereum) {
       let web3 = new Web3(window.ethereum);
+      await window.ethereum.enable();
       try {
         const accounts = await window.ethereum.request({
           method: "eth_accounts",
+          
         });
         const networkId = await window.ethereum.request({
           method: "net_version",
@@ -58,7 +60,6 @@ export const connect = () => {
           );
           // Add listeners start
           window.ethereum.on("accountsChanged", (accounts) => {
-            window.location.reload();
             dispatch(updateAccount(accounts[0]));
 
           });
