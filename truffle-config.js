@@ -22,7 +22,7 @@
  const infuraKey = "63f2c3285d27415a8921d4f22f0676d9";
  
  const fs = require('fs');
- const mnemonic = fs.readFileSync(".secret").toString().trim();
+ const mnemonic = fs.readFileSync(".ENV").toString().trim();
  
  module.exports = {
    /**
