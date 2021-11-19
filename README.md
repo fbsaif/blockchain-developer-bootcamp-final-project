@@ -151,9 +151,7 @@ Key files and folders structures are as below:
 #
 ## Screencast
 
-<p align = "center">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aB2qPaoC7KY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</p>
+[![Watch the video](https://img.youtube.com/vi/aB2qPaoC7KY/maxresdefault.jpg)](https://youtu.be/aB2qPaoC7KY)
 
 ## Ethereum account (for NFT certification)
 ```
