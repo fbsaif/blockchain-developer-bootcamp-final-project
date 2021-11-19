@@ -21,7 +21,7 @@ The contract is deployed and verified on Ropsten testnet at [0x43D6Ff6FEe89CbfDF
 - Connect metamask browser wallet to Ropsten Test Network.
 - Request and get test etheres for the metamask account from [Ropsten Faucet](https://faucet.ropsten.be/) to make transactions.
 - GoodNFT Smart Contract is deployed to Ropsten Testnet - [0x43D6Ff6FEe89CbfDFF3576eA300DcAAE3899dB03](https://ropsten.etherscan.io/address/0x43D6Ff6FEe89CbfDFF3576eA300DcAAE3899dB03#code)
-- Access the GoodNFT DApp at [GoodNFT](https://fbsaif.github.io/blockchain-developer-bootcamp-final-project/) and start minting your NFTs.
+- Access the GoodNFT DApp at [**GoodNFT Website**](https://fbsaif.github.io/blockchain-developer-bootcamp-final-project/) and start minting your NFTs.
 #
 
 ### Run the DApp Locally
@@ -151,7 +151,8 @@ Key files and folders structures are as below:
 #
 ## Screencast
 
-*Pending*
+<div style="position: relative; padding-bottom: 57.50798722044729%; height: 0;"><iframe src="https://www.loom.com/embed/a4752de0efca4a63b763c9fad4bcde0a" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
+
 ## Ethereum account (for NFT certification)
 ```
 0x7df34834d123124b48459feaadc7472fad025674
