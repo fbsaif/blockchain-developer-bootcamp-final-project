@@ -151,7 +151,9 @@ Key files and folders structures are as below:
 #
 ## Screencast
 
-<div style="position: relative; padding-bottom: 57.50798722044729%; height: 0;"><iframe src="https://www.loom.com/embed/a4752de0efca4a63b763c9fad4bcde0a" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
+<p align = "center">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aB2qPaoC7KY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</p>
 
 ## Ethereum account (for NFT certification)
 ```
