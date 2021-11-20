@@ -157,3 +157,8 @@ Key files and folders structures are as below:
 ```
 0x7df34834d123124b48459feaadc7472fad025674
 ```
+#
+## Supporting Documents
+* [Design Pattern Decisions](./design_pattern_decisions.md)
+* [Avoiding Common Attacks](./avoiding_common_attacks.md)
+* [Ropsten Contract Addresses](./deployed_addresses.txt)
