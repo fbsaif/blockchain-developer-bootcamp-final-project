@@ -161,4 +161,4 @@ Key files and folders structures are as below:
 ## Supporting Documents
 * [Design Pattern Decisions](./design_pattern_decisions.md)
 * [Avoiding Common Attacks](./avoiding_common_attacks.md)
-* [Ropsten Contract Addresses](./deployed_addresses.txt)
+* [Ropsten Contract Addresses](./deployed_address.txt)
