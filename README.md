@@ -9,7 +9,7 @@ The smart contract uses Openzeppelin contracts and libraries such as [ERC721Enum
 The contract is deployed and verified on Ropsten testnet at [0x43D6Ff6FEe89CbfDFF3576eA300DcAAE3899dB03](https://ropsten.etherscan.io/address/0x43D6Ff6FEe89CbfDFF3576eA300DcAAE3899dB03)
 
 ### Features
-- user can mint an NFT by signing his/her signature or autograph or even draw something on the canvas. 
+- User can mint an NFT by signing his/her signature or autograph or even draw something on the canvas. 
 - A clear button to clear the canvas and restart the process before minting.
 - The minted NFT gets uploaded to IPFS server along with the metadata.
 - Each NFT minted has 3 properties, ID, name and description.
